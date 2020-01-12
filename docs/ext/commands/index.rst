@@ -15,4 +15,4 @@ extension library that handles this for you.
     commands
     cogs
     extensions
-    api
+    api/index.rst
