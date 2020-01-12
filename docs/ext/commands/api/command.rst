@@ -5,15 +5,6 @@
 Command
 --------
 
-.. autosummary::
-    :nosignatures:
-
-    discord.ext.commands.command
-    discord.ext.commands.group
-    discord.ext.commands.Command
-    discord.ext.commands.Group
-    discord.ext.commands.GroupMixin
-
 .. autofunction:: discord.ext.commands.command
 
 .. autofunction:: discord.ext.commands.group
