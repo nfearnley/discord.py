@@ -30,7 +30,7 @@ Documentation Contents
    quickstart
    migrating
    logging
-   api
+   api/index.rst
 
 Extensions
 -----------
