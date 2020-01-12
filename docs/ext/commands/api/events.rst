@@ -5,7 +5,7 @@
 Event Reference
 -----------------
 
-These events function similar to :ref:`the regular events <discord-api-events>`, except they
+These events function similar to :ref:`the regular events <discord_api_events>`, except they
 are custom to the command extension module.
 
 .. function:: on_command_error(ctx, error)

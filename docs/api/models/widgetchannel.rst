@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _widgetchannel:
+.. _discord_api_models_widgetchannel:
 
 WidgetChannel
 ~~~~~~~~~~~~~~~

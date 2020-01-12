@@ -1,7 +1,5 @@
 .. currentmodule:: discord
 
-.. _classes:
-
 .. _discord_api_data:
 
 Data Classes

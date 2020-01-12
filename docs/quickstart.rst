@@ -1,6 +1,6 @@
-.. _quickstart:
-
 .. currentmodule:: discord
+
+.. _quickstart:
 
 Quickstart
 ============
@@ -55,7 +55,7 @@ There's a lot going on here, so let's walk you through it step by step.
 5. Afterwards, we check if the :class:`Message.content` starts with ``'$hello'``. If it is,
    then we reply in the channel it was used in with ``'Hello!'``.
 6. Finally, we run the bot with our login token. If you need help getting your token or creating a bot,
-   look in the :ref:`discord-intro` section.
+   look in the :ref:`discord_intro` section.
 
 
 Now that we've made a bot, we have to *run* the bot. Luckily, this is simple since this is just a

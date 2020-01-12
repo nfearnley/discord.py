@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _partialinviteguild:
+.. _discord_api_models_partialinviteguild:
 
 PartialInviteGuild
 ~~~~~~~~~~~~~~~~~~~

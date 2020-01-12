@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _dmchannel:
+.. _discord_api_models_dmchannel:
 
 DMChannel
 ~~~~~~~~~

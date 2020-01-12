@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _reaction:
+.. _discord_api_models_reaction:
 
 Reaction
 ~~~~~~~~~

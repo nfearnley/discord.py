@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _asset:
+.. _discord_api_models_asset:
 
 Asset
 ~~~~~

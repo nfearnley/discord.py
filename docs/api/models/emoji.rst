@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _emoji:
+.. _discord_api_models_emoji:
 
 Emoji
 ~~~~~

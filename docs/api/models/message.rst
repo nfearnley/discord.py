@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _message:
+.. _discord_api_models_message:
 
 Message
 ~~~~~~~

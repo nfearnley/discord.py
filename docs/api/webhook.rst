@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _webhook:
+.. _discord_api_webhook:
 
 Webhook Support
 ------------------
@@ -24,5 +24,3 @@ interface, :meth:`WebhookAdapter.request`.
 
 .. autoclass:: RequestsWebhookAdapter
     :members:
-
-.. _discord_api_abcs:

@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _member:
+.. _discord_api_models_member:
 
 Member
 ~~~~~~

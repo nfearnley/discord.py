@@ -2,7 +2,7 @@
 
 .. currentmodule:: discord
 
-.. _migrating-to-async:
+.. _migrating_to_async:
 
 Migrating to v0.10.0
 ======================
@@ -91,7 +91,7 @@ After:
     def on_socket_raw_send(payload): pass
 
 Note that ``on_status`` was removed. If you want its functionality, use :func:`on_member_update`.
-See :ref:`discord-api-events` for more information. Other removed events include ``on_socket_closed``, ``on_socket_receive``, and ``on_socket_opened``.
+See :ref:`discord_api_events` for more information. Other removed events include ``on_socket_closed``, ``on_socket_receive``, and ``on_socket_opened``.
 
 
 Coroutines
@@ -180,7 +180,7 @@ After:
     channel.type == discord.ChannelType.text
 
 The main reason for this change was to reduce the use of finicky strings in the API as this
-could give users a false sense of power. More information can be found in the :ref:`discord-api-enums` page.
+could give users a false sense of power. More information can be found in the :ref:`discord_api_enums` page.
 
 Properties
 -----------
@@ -265,7 +265,7 @@ The following parameters are now exclusively keyword arguments:
 In the documentation you can tell if a function parameter is a forced keyword argument if it is after ``\*,``
 in the function signature.
 
-.. _migrating-running:
+.. _migrating_running:
 
 Running the Client
 --------------------

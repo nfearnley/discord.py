@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _attachement:
+.. _discord_api_models_attachement:
 
 Attachment
 ~~~~~~~~~~~

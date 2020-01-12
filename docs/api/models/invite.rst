@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _invite:
+.. _discord_api_models_invite:
 
 Invite
 ~~~~~~~

@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _audit:
+.. _discord_api_audit:
 
 Audit Log Data
 ----------------

@@ -713,7 +713,7 @@ class Client:
 
         In case the event returns multiple arguments, a :class:`tuple` containing those
         arguments is returned instead. Please check the
-        :ref:`documentation <discord-api-events>` for a list of events and their
+        :ref:`documentation <discord_api_events>` for a list of events and their
         parameters.
 
         This function returns the **first event that meets the requirements**.
@@ -757,7 +757,7 @@ class Client:
         Parameters
         ------------
         event: :class:`str`
-            The event name, similar to the :ref:`event reference <discord-api-events>`,
+            The event name, similar to the :ref:`event reference <discord_api_events>`,
             but without the ``on_`` prefix, to wait for.
         check: Optional[Callable[..., :class:`bool`]]
             A predicate to check what to wait for. The arguments must meet the
@@ -776,7 +776,7 @@ class Client:
         Any
             Returns no arguments, a single argument, or a :class:`tuple` of multiple
             arguments that mirrors the parameters passed in the
-            :ref:`event reference <discord-api-events>`.
+            :ref:`event reference <discord_api_events>`.
         """
 
         future = self.loop.create_future()
@@ -800,7 +800,7 @@ class Client:
     def event(self, coro):
         """A decorator that registers an event to listen to.
 
-        You can find more info about the events on the :ref:`documentation below <discord-api-events>`.
+        You can find more info about the events on the :ref:`documentation below <discord_api_events>`.
 
         The events must be a :ref:`coroutine <coroutine>`, if not, :exc:`TypeError` is raised.
 

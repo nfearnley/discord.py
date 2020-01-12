@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _voicechannel:
+.. _discord_api_models_voicechannel:
 
 VoiceChannel
 ~~~~~~~~~~~~~

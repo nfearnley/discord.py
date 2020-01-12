@@ -1,4 +1,5 @@
 .. versionadded:: 0.6.0
+
 .. _logging_setup:
 
 Setting Up Logging

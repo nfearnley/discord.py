@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _rawreactionclearevent:
+.. _discord_api_models_rawreactionclearevent:
 
 RawReactionClearEvent
 ~~~~~~~~~~~~~~~~~~~~~~

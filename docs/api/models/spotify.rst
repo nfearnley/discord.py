@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _spotify:
+.. _discord_api_models_spotify:
 
 Spotify
 ~~~~~~~~

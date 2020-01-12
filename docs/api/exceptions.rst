@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _exceptions:
+.. _discord_api_exceptions:
 
 Exceptions
 ------------

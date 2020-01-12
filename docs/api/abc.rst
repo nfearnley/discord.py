@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _abc:
+.. _discord_api_abcs:
 
 Abstract Base Classes
 -----------------------

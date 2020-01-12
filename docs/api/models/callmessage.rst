@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _callmessage:
+.. _discord_api_models_callmessage:
 
 CallMessage
 ~~~~~~~~~~~~

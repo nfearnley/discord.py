@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _voice:
+.. _discord_api_voice:
 
 Voice
 ------
@@ -26,5 +26,3 @@ Opus Library
 .. autofunction:: discord.opus.load_opus
 
 .. autofunction:: discord.opus.is_loaded
-
-.. _discord-api-events:

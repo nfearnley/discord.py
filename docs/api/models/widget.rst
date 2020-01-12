@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _widget:
+.. _discord_api_models_widget:
 
 Widget
 ~~~~~~~

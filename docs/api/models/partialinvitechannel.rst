@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _partialinvitechannel:
+.. _discord_api_models_partialinvitechannel:
 
 PartialInviteChannel
 ~~~~~~~~~~~~~~~~~~~~~

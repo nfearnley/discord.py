@@ -1,9 +1,9 @@
 .. currentmodule:: discord
 
-.. _rawbulkmessagedeleteevent:
+.. _discord_api_models_rawmessagedeleteevent:
 
-RawBulkMessageDeleteEvent
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+RawMessageDeleteEvent
+~~~~~~~~~~~~~~~~~~~~~~~
 
-.. autoclass:: RawBulkMessageDeleteEvent()
+.. autoclass:: RawMessageDeleteEvent()
     :members:

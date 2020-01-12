@@ -1,8 +1,6 @@
 .. currentmodule:: discord
 
-.. _enumerations:
-
-.. _discord-api-enums:
+.. _discord_api_enums:
 
 Enumerations
 -------------

@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _guild:
+.. _discord_api_models_guild:
 
 Guild
 ~~~~~~

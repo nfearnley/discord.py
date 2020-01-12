@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _partialemoji:
+.. _discord_api_models_partialemoji:
 
 PartialEmoji
 ~~~~~~~~~~~~~~~~~~~~~~

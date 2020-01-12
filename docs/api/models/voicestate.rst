@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _voicestate:
+.. _discord_api_models_voicestate:
 
 VoiceState
 ~~~~~~~~~~~

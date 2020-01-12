@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _groupcall:
+.. _discord_api_models_groupcall:
 
 GroupCall
 ~~~~~~~~~~

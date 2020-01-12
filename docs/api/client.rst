@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _client:
+.. _discord_api_client:
 
 Client
 -------

@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _version:
+.. _discord_api_version:
 
 Version Related Info
 ---------------------

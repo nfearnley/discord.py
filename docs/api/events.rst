@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _events:
+.. _discord_api_events:
 
 Event Reference
 ---------------

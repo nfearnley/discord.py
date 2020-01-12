@@ -1,7 +1,7 @@
 .. currentmodule:: discord
 
-.. |commands| replace:: [:ref:`ext.commands <discord_ext_commands>`]
-.. |tasks| replace:: [:ref:`ext.tasks <discord_ext_tasks>`]
+.. |commands| replace:: [:ref:`ext.commands <ext_commands>`]
+.. |tasks| replace:: [:ref:`ext.tasks <ext_tasks>`]
 
 .. _whats_new:
 
@@ -525,7 +525,7 @@ For the command extension, the following bug fixes apply:
 v0.10.0
 -------
 
-For breaking changes, see :ref:`migrating-to-async`. The breaking changes listed there will not be enumerated below. Since this version is rather a big departure from v0.9.2, this change log will be non-exhaustive.
+For breaking changes, see :ref:`migrating_to_async`. The breaking changes listed there will not be enumerated below. Since this version is rather a big departure from v0.9.2, this change log will be non-exhaustive.
 
 New Features
 ~~~~~~~~~~~~~

@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _rawreactionactionevent:
+.. _discord_api_models_rawreactionactionevent:
 
 RawReactionActionEvent
 ~~~~~~~~~~~~~~~~~~~~~~~

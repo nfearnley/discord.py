@@ -1,8 +1,6 @@
 .. currentmodule:: discord
 
-.. _utility:
-
-.. _discord-api-utils:
+.. _discord_api_utils:
 
 Utility Functions
 -----------------

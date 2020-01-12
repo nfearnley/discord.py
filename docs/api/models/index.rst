@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _models:
+.. _discord_api_models:
 
 Discord Models
 ---------------
@@ -19,7 +19,7 @@ the user of the library.
     If you want to get one of these model classes instances they'd have to be through
     the cache, and a common way of doing so is through the :func:`utils.find` function
     or attributes of model classes that you receive from the events specified in the
-    :ref:`discord-api-events`.
+    :ref:`discord_api_events`.
 
 .. note::
 

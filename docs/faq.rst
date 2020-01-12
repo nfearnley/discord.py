@@ -1,4 +1,5 @@
 .. currentmodule:: discord
+
 .. _faq:
 
 Frequently Asked Questions

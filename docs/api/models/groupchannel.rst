@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _groupchannel:
+.. _discord_api_models_groupchannel:
 
 GroupChannel
 ~~~~~~~~~~~~

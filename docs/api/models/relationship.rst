@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _relationship:
+.. _discord_api_models_relationship:
 
 Relationship
 ~~~~~~~~~~~~~~

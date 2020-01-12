@@ -1,4 +1,4 @@
-.. _ext_api:
+.. _ext_commands_api:
 
 API Reference
 ===============

@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _profile:
+.. _discord_api_models_profile:
 
 Profile
 ---------

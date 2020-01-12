@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _rawmessageupdateevent:
+.. _discord_api_models_rawmessageupdateevent:
 
 RawMessageUpdateEvent
 ~~~~~~~~~~~~~~~~~~~~~~

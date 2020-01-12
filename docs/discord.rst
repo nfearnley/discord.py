@@ -1,4 +1,4 @@
-.. _discord-intro:
+.. _discord_intro:
 
 Creating a Bot Account
 ========================

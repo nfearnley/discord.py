@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _async:
+.. _discord_api_async:
 
 Async Iterator
 ----------------

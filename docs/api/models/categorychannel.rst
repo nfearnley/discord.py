@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _categorychannel:
+.. _discord_api_models_categorychannel:
 
 CategoryChannel
 ~~~~~~~~~~~~~~~~~

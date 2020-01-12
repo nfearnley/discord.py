@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _clientuser:
+.. _discord_api_models_clientuser:
 
 ClientUser
 ~~~~~~~~~~~~

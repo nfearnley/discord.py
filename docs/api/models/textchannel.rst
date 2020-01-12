@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _textchannel:
+.. _discord_api_models_textchannel:
 
 TextChannel
 ~~~~~~~~~~~~

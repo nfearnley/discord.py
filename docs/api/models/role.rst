@@ -1,6 +1,6 @@
 .. currentmodule:: discord
 
-.. _role:
+.. _discord_api_models_role:
 
 Role
 ~~~~~
